@@ -1,2 +1,3 @@
 Welcome Screen code 3
 Login Screen 3
+Register 3
