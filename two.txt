@@ -1,3 +1,4 @@
 Welcome Screen code 2
 Login Screen 2
 Register 2
+resetpassword 2
